@@ -8,6 +8,6 @@ public class TestController {
 
     @RequestMapping("/")
     public String sample() {
-        return "Test!!!";
+        return "자동 배포 테스트";
     }
 }
